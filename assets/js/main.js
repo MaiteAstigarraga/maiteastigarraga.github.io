@@ -40,8 +40,8 @@
         dots: false,
         fade: true,
         arrows: false, 
-        prevArrow: '<button type="button" class="slick-prev"><img src="img/hero_thumb/arrow-left.png" alt=""><img class="secondary-img" src="img/hero_thumb/left-white.png" alt=""></button>',
-        nextArrow: '<button type="button" class="slick-next"><img src="img/hero_thumb/arrow-right.png" alt=""><img class="secondary-img" src="img/hero_thumb/right-white.png" alt=""></button>',
+        prevArrow: '<button type="button" class="slick-prev"><img src="http://costadulce.com.py/img/hero_thumb/arrow-left.png" alt=""><img class="secondary-img" src="http://costadulce.com.py/img/hero_thumb/left-white.png" alt=""></button>',
+        nextArrow: '<button type="button" class="slick-next"><img src="http://costadulce.com.py/img/hero_thumb/arrow-right.png" alt=""><img class="secondary-img" src="http://costadulce.com.py/img/hero_thumb/right-white.png" alt=""></button>',
         responsive: [{
             breakpoint: 1024,
             settings: {
