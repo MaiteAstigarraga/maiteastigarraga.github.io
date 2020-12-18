@@ -313,7 +313,7 @@
                         } else if (obj.data('vbtype') == 'video') {
                           loadVid(autoplay);
                         } else {
-                          content.html('<img src="http://costadulce.com.py/'+dest+'">');
+                          content.html('<img src="https://costadulce.com.py/'+dest+'">');
                           preloadFirst();
                         }
                         option.cb_post_open(obj, gallIndex, thenext, theprev);
@@ -473,7 +473,7 @@
                         } else if (destination.data('vbtype') == 'video') {
                             loadVid(autoplay);
                         } else {
-                            content.html('<img src="http://costadulce.com.py/'+dest+'">');
+                            content.html('<img src="https://costadulce.com.py/'+dest+'">');
                             preloadFirst();
                         }
                         obj = destination;
@@ -672,7 +672,7 @@
 
                 /* -------- LOAD IFRAME -------- */
                 function loadIframe(){
-                    content.html('<iframe class="venoframe" src="http://costadulce.com.py/'+dest+'"></iframe>');
+                    content.html('<iframe class="venoframe" src="https://costadulce.com.py/'+dest+'"></iframe>');
                   //  $('.venoframe').load(function(){ // valid only for iFrames in same domain
                     updateoverlay();
                   //  });
@@ -693,7 +693,7 @@
                     } else if (videoObj.type == 'youtube') {
                       player = 'https://www.youtube.com/embed/';
                     }
-                    content.html('<iframe class="venoframe vbvid" webkitallowfullscreen mozallowfullscreen allowfullscreen allow="autoplay" frameborder="0" src="http://costadulce.com.py/'+player+videoObj.id+queryvars+'"></iframe>');
+                    content.html('<iframe class="venoframe vbvid" webkitallowfullscreen mozallowfullscreen allowfullscreen allow="autoplay" frameborder="0" src="https://costadulce.com.py/'+player+videoObj.id+queryvars+'"></iframe>');
                     updateoverlay();
                 }
 
