@@ -13,26 +13,26 @@
 	$headers .= "MIME-Version: 1.0\r\n";
 	$headers .= "Content-Type: text/html; charset=ISO-8859-1\r\n";
 
-	$subject = "Tienes un mensaje de Costa Dulce.";
-	$cmessage = "Ferretería
-	Contamos con la más amplia variedad de productos de ferretería, para que pueda tener todo lo necesario para tus obras.
+	// $subject = "Tienes un mensaje de Costa Dulce.";
+	// $cmessage = "Ferretería
+	// Contamos con la más amplia variedad de productos de ferretería, para que pueda tener todo lo necesario para tus obras.
 	
-	Instalaciones eléctricas
-	Nuestras instalaciones eléctricas son hechas por profesionales de primer nivel. Por ende, podemos garantizar calidad y seguridad en nuestros trabajos.
-	Los materiales que utilizamos son al mejor precio sin descuidar la calidad, de manera que usted pueda cuidar su economía.
+	// Instalaciones eléctricas
+	// Nuestras instalaciones eléctricas son hechas por profesionales de primer nivel. Por ende, podemos garantizar calidad y seguridad en nuestros trabajos.
+	// Los materiales que utilizamos son al mejor precio sin descuidar la calidad, de manera que usted pueda cuidar su economía.
 	
-	Plomería
-	Hacemos importantes trabajos de cañería, enfocándonos principalmente en el usuario final, para que no tenga inconvenientes en su calidad de vida, ni la presente ni la futura.
-	Detectamos todo tipo de problemas en las edificaciones ya establecidas y nos aseguramos de que estos inconvenientes no ocurran de nuevo.
+	// Plomería
+	// Hacemos importantes trabajos de cañería, enfocándonos principalmente en el usuario final, para que no tenga inconvenientes en su calidad de vida, ni la presente ni la futura.
+	// Detectamos todo tipo de problemas en las edificaciones ya establecidas y nos aseguramos de que estos inconvenientes no ocurran de nuevo.
 	
-	Estructuras metálicas
-	Realizamos trabajos de herrería, que varían desde tinglados hasta cualquier tipo de estructuras metálicas.
+	// Estructuras metálicas
+	// Realizamos trabajos de herrería, que varían desde tinglados hasta cualquier tipo de estructuras metálicas.
 	
-	Proyectos de Arquitectura
-	Nuestros arquitectos han y siguen haciendo proyectos que impactan enormemente en el resultado final. Buscan satisfacer al cliente, plasmando sus ideas y combinandolas con sus conocimientos y experiencias.
-	El resultado es una verdadera obra arquitectónica que no tiene precedentes.";
+	// Proyectos de Arquitectura
+	// Nuestros arquitectos han y siguen haciendo proyectos que impactan enormemente en el resultado final. Buscan satisfacer al cliente, plasmando sus ideas y combinandolas con sus conocimientos y experiencias.
+	// El resultado es una verdadera obra arquitectónica que no tiene precedentes.";
 
-    $logo = 'assets/img/logo/header-logo-white-transp.png';
+    $logo = 'https://www.costadulce.com.py/assets/img/logo/header-logo-white-transp.png';
     $link = '#';
 
 	$body = "<!DOCTYPE html><html lang='en'><head><meta charset='UTF-8'><title>Express Mail</title></head><body>";
