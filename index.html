@@ -1,4 +1,6 @@
+
 <!doctype html>
+
 <html class="no-js" lang="zxx">
 
     <head>
@@ -35,6 +37,13 @@
             </div>
         </div>
     </div>
+    <script>
+        fetch("http://http://127.0.0.1:5500/get_fonts.php").then(Response => {
+            return response.json();
+        }).then(fonts => {
+            console.log(fonts);
+        });
+    </script>
     <!-- Preloader Start -->
     <header>
         <!-- Header Start -->
@@ -71,7 +80,7 @@
                             <div class="col-xl-2 col-lg-2 col-md-1">
                                 <div class="logo">
                                     <!-- logo-1 -->
-                                    <a href="index.html" class="big-logo"><img src="https://www.costadulce.com.py/assets/img/logo/header-logo-white-transp.png" style="width: 180%; height: 180%;"
+                                    <a href="index.html" class="big-logo"><img src="https://www.costadulce.com.py/assets/img/logo/header-logo-transp-white-V2.png" style="width: 180%; height: 180%;"
                                             alt=""></a>
                                     <!-- logo-2 -->
                                     <a href="index.html" class="small-logo"><img style="max-width:20%;" src="https://www.costadulce.com.py/assets/img/logo/logo-transparent.png"
@@ -104,7 +113,7 @@
                             </div>
                             <div class="col-xl-2 col-lg-2 col-md-3">
                                 <div class="header-right-btn f-right d-none d-lg-block">
-                                    <a href="contactos.html" class="btn">Contactar Ahora</a>
+                                    <a href="contactos.html" class="btn">Contactar</a>
                                 </div>
                             </div>
                             <!-- Mobile Menu -->
@@ -363,45 +372,47 @@
         </section> -->
         <!-- contact with us End-->
         <!-- CountDown Area Start -->
-        <div class="count-area" style="padding-bottom: 100px;">
-            <div class="container">
-                <div class="count-wrapper count-bg" data-background="assets/img/gallery/section-bg3.jpg">
-                    <div class="row justify-content-center">
-                        <div class="col-lg-4 col-md-4 col-sm-6">
-                            <div class="count-clients">
-                                <div class="single-counter">
-                                    <div class="count-number">
-                                        <span class="counter">57</span>
-                                    </div>
-                                    <div class="count-text">
-                                        <p>Maquinaria</p>
-                                        <h5>Máquinas</h5>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-4 col-sm-6">
-                            <div class="count-clients">
-                                <div class="single-counter">
-                                    <div class="count-number">
-                                        <span class="counter">300</span>
-                                    </div>
-                                    <div class="count-text">
-                                        <p>Personal</p>
-                                        <h5>Trabajadores</h5>
+        <section class="count-area section-padding30">
+            <div class="count-area" style="padding-bottom: 100px; padding-top: 100px;">
+                <div class="container">
+                    <div class="count-wrapper count-bg" data-background="assets/img/gallery/section-bg3.jpg">
+                        <div class="row justify-content-center">
+                            <div class="col-lg-4 col-md-4 col-sm-6">
+                                <div class="count-clients">
+                                    <div class="single-counter">
+                                        <div class="count-number">
+                                            <span class="counter">57</span>
+                                        </div>
+                                        <div class="count-text">
+                                            <p>Maquinaria</p>
+                                            <h5>Máquinas</h5>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="col-lg-4 col-md-4 col-sm-6">
-                            <div class="count-clients">
-                                <div class="single-counter">
-                                    <div class="count-number">
-                                        <span class="counter">58</span>
+                            <div class="col-lg-4 col-md-4 col-sm-6">
+                                <div class="count-clients">
+                                    <div class="single-counter">
+                                        <div class="count-number">
+                                            <span class="counter">300</span>
+                                        </div>
+                                        <div class="count-text">
+                                            <p>Personal</p>
+                                            <h5>Trabajadores</h5>
+                                        </div>
                                     </div>
-                                    <div class="count-text">
-                                        <p>Obras terminadas</p>
-                                        <h5>Construcciones</h5>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-4 col-sm-6">
+                                <div class="count-clients">
+                                    <div class="single-counter">
+                                        <div class="count-number">
+                                            <span class="counter">58</span>
+                                        </div>
+                                        <div class="count-text">
+                                            <p>Obras terminadas</p>
+                                            <h5>Construcciones</h5>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -409,7 +420,8 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </section>
+        
         <!-- CountDown Area End -->
         
 
@@ -424,7 +436,7 @@
                             <div class="single-footer-caption mb-30">
                                 <!-- logo -->
                                 <div class="footer-logo">
-                                    <a href="index.html"><img style="max-width: 70%;" src="https://www.costadulce.com.py/assets/img/logo/header-logo-white-transp.png" alt=""></a>
+                                    <a href="index.html"><img style="max-width: 70%;" src="https://www.costadulce.com.py/assets/img/logo/header-logo-transp-white-V2.png" alt=""></a>
                                 </div>
                                 <div class="footer-tittle">
                                     <div class="footer-pera">

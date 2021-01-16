@@ -32,7 +32,7 @@
 	// Nuestros arquitectos han y siguen haciendo proyectos que impactan enormemente en el resultado final. Buscan satisfacer al cliente, plasmando sus ideas y combinandolas con sus conocimientos y experiencias.
 	// El resultado es una verdadera obra arquitectónica que no tiene precedentes.";
 
-    $logo = 'https://www.costadulce.com.py/assets/img/logo/header-logo-white-transp.png';
+    $logo = 'https://www.costadulce.com.py/assets/img/logo/header-logo-transp-white-V2.png';
     $link = '#';
 
 	$body = "<!DOCTYPE html><html lang='en'><head><meta charset='UTF-8'><title>Express Mail</title></head><body>";
