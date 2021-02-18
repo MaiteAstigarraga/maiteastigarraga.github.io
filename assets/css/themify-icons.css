@@ -103,7 +103,7 @@
 .ti-reload:before {
 	content: "\e619";
 }
-.ti-plus:before {
+.bx bx-plus:before {
 	content: "\e61a";
 }
 .ti-pin:before {

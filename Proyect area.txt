@@ -9,7 +9,7 @@
                                 <div class="front-text">
                                     <h2 class="">Nuestros Proyectos</h2>
                                 </div>
-                                <span class="back-text">Galería</span>
+                                <span class="back-text">Galerï¿½a</span>
                             </div>
                         </div>
                         <div class="col-lg-6">
@@ -49,7 +49,7 @@
                                                 </div>
                                                 <div class="project-cap">
                                                     <a href="proyecto_hospital_encarnacion.html" class="plus-btn"><i
-                                                            class="ti-plus"></i></a>
+                                                            class="bx bx-plus"></i></a>
                                                     <h4><a href="proyecto_hospital_encarnacion.html">Hospital de Encarnacion</a></h4>
                                                     <h4><a href="proyecto_hospital_encarnacion.html">Hospitales</a></h4>
                                                 </div>
@@ -63,7 +63,7 @@
                                                 </div>
                                                 <div class="project-cap">
                                                     <a href="proyecto_carcel_mg.html" class="plus-btn"><i
-                                                            class="ti-plus"></i></a>
+                                                            class="bx bx-plus"></i></a>
                                                     <h4><a href="proyecto_carcel_mg.html">C&aacute;rcel de Minga Guazu</a></h4>
                                                     <h4><a href="proyecto_carcel_mg.html">C&aacute;rceles</a></h4>
                                                 </div>
@@ -86,7 +86,7 @@
                                                 </div>
                                                 <div class="project-cap">
                                                     <a href="proyecto_hospital_encarnacion.html" class="plus-btn"><i
-                                                            class="ti-plus"></i></a>
+                                                            class="bx bx-plus"></i></a>
                                                     <h4><a href="proyecto_hospital_encarnacion.html">Hospital de Encarnacion</a></h4>
                                                     <h4><a href="proyecto_hospital_encarnacion.html">Hospitales</a></h4>
                                                 </div>
@@ -108,7 +108,7 @@
                                                 </div>
                                                 <div class="project-cap">
                                                     <a href="proyecto_carcel_mg.html" class="plus-btn"><i
-                                                            class="ti-plus"></i></a>
+                                                            class="bx bx-plus"></i></a>
                                                     <h4><a href="proyecto_carcel_mg.html">C&aacute;rcel de Minga Guazu</a></h4>
                                                     <h4><a href="proyecto_carcel_mg.html">C&aacute;rceles</a></h4>
                                                 </div>
